@@ -54,5 +54,5 @@ TODO
 
 Assuming you're already ran `npm install` and `bower install`,
 the only pieces required to run the application in its built
-state is running `grunt` and copy the files in dist in the 
+state is running `grunt` and copy the files in dist in the
 correct location.
